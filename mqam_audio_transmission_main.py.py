@@ -5,7 +5,7 @@
 # SPDX-License-Identifier: GPL-3.0
 #
 # GNU Radio Python Flow Graph
-# Title: Not titled yet
+# Title: mqam_audio_transmission_main
 # GNU Radio version: 3.10.12.0
 
 from PyQt5 import Qt
