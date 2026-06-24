@@ -22,4 +22,4 @@ A primary component of this project is the development of custom Embedded Python
 * mu_law_decoder.py: Python block for mu-law decoding.
 
 ---
-Developed by Danai Chalkidou as part of the Digital Communications course.
+Developed by Danae Chalkidou as part of the Digital Communications course.
